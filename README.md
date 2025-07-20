@@ -1,1 +1,37 @@
 # daryna
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <title>Для тебе</title>
+  <style>
+    body {
+      background-color: #fff0f5;
+      font-family: 'Segoe UI', sans-serif;
+      text-align: center;
+      padding: 60px 20px;
+    }
+    h1 {
+      font-size: 3em;
+      color: #d63384;
+    }
+    a {
+      display: inline-block;
+      margin-top: 40px;
+      font-size: 1.3em;
+      color: #0077cc;
+      text-decoration: none;
+      word-wrap: break-word;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <h1>бро ти найкраща.</h1>
+  <a href="https://youtu.be/xm3YgoEiEDc?si=KgV7mjEoxjWVmxw-" target="_blank">
+    https://youtu.be/xm3YgoEiEDc?si=KgV7mjEoxjWVmxw-
+  </a>
+</body>
+</html>
